@@ -60,9 +60,9 @@ The main goal of this project is to create a personal online presence and showca
 <img width="1892" height="976" alt="personal-screenshot -2" src="https://github.com/user-attachments/assets/ad56532c-b1ea-419b-890f-790066fd6aa5" />
 
 
-## 🌍 Live Demo (Optional)
+## 🌍 Live Demo
 
-(Add GitHub Pages link here)
+[(Add GitHub Pages link here)](https://rinshudeveloper.github.io/personal_website/)
 
 ## ⚠️ Limitations
 
