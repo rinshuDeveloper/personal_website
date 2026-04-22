@@ -62,7 +62,7 @@ The main goal of this project is to create a personal online presence and showca
 
 ## 🌍 Live Demo
 
-[(Add GitHub Pages link here)](https://rinshudeveloper.github.io/personal_website/)
+[[(Go to live website)]()](https://rinshudeveloper.github.io/personal_website/)
 
 ## ⚠️ Limitations
 
