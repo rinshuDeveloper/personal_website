@@ -1,0 +1,15 @@
+.card:hover {
+  transform: translateY(-10px);
+  transition: 0.3s;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 80px;
+}
+html{
+  scroll-behavior: smooth;
+}
+section{
+  scroll-margin-top: 70px;
+}
